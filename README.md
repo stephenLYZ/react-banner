@@ -2,7 +2,7 @@
 
 ### 基于 react+webpack＋es6的banner轮播组件
 
-
+[demo](http://stephenlyao.github.io/react-banner/index.html)
 
 ```
 //安装依赖
